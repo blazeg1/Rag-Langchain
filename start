@@ -1,5 +1,10 @@
 First, I installed all the required libraries and packages needed to learn and understand RAG, LangChain, LangGraph, and related technologies.
 I installed the UV package manager to create and manage a virtual environment for the project.
+
+Virtual Environment
+A virtual environment is an isolated Python workspace that has its own Python interpreter and installed packages. 
+It allows each project to use different package versions without affecting other projects or the system-wide Python installation.
+
 UV Package manager : if is defined as fast python and project manager written in rust.
 A single tool to replace pip, pip-tools, pipx, poetry, pyenv, twine, virtualenv, and more.
 Common commands used by uv are : 
