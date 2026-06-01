@@ -1,3 +1,4 @@
 Input is given to llm which produce as output . (this is called gen ai application)
 if we give input as todays news then llm will not be able provide anything as output but actually it is connected to third party
 tool which have recent knowledge this is called as context.
+This was all about introduction to basic agent
